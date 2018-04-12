@@ -1,1 +1,3 @@
-this is a test github page
+<?php
+echo 'this is a test github page';
+?>
